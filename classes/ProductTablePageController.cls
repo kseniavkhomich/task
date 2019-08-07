@@ -7,9 +7,7 @@ public class ProductTablePageController{
     public String soql {get;set;}
     public List <Product__c> products1 = new List <Product__c>();
     public List <Product__c> products2 = new List <Product__c>();
-    public Integer methodA(){
-        return 10;
-    }
+ 
     public Integer methodB(){
         return 10;
     public Integer methodA(){
