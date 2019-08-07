@@ -10,6 +10,7 @@ public class ProductTablePageController{
  
     public Integer methodB(){
         return 10;
+    }
     public Integer methodA(){
         return 20;
     }
