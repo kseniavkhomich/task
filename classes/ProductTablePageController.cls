@@ -12,6 +12,8 @@ public class ProductTablePageController{
     }
     public Integer methodB(){
         return 10;
+    public Integer methodA(){
+        return 20;
     }
 
     public List<Product__c> getProducts() {
