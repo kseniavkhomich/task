@@ -10,6 +10,9 @@ public class ProductTablePageController{
     public Integer methodA(){
         return 10;
     }
+    public Integer methodB(){
+        return 10;
+    }
 
     public List<Product__c> getProducts() {
         return con.getRecords();
